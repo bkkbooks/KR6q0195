@@ -1,0 +1,183 @@
+canonical_identifier: bkk:krp/KR6q0195/v1
+canonical_location: https://kanripo.org/bkk/KR6q0195/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 曹溪一滴
+  identifiers:
+    alt_id:
+    - J25nB164
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J25/J25nB164.xml
+    old_id: J25nB164
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0195_000.yaml, hash: 'sha256:dfc960e1be99a8dc7dc8a5ea65b55957e8c5dcaba1f7b2d7ae1a9b914fde7638'}
+  - {seq: 1, filename: KR6q0195_001.yaml, hash: 'sha256:4ceb7b66792cb21e6e684ec92fe390f1e13e2abed2b54761dcb5a7fd3a8fdf55'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0195_000.markers.yaml, hash: 'sha256:4c4add00c3444914ef1f2c57e616f36ce2bf54a291fc8cc49f45236fb40044f9'}
+  - {seq: 1, role: markers, filename: assets/KR6q0195_001.markers.yaml, hash: 'sha256:7b1453c206ba6d54ab0c676a40144f096149803037adc7034929ce78fef0978b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0195_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 曹溪一滴緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0195_J_000-mulu-2
+    span:
+    - front
+    - 551
+    - 551
+  label: 引曹溪一滴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 20215
+  label: 曹溪一滴卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 禪宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-mulu-2
+    span:
+    - body
+    - 3641
+    - 3641
+  label: 應化
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-mulu-3
+    span:
+    - body
+    - 5611
+    - 5611
+  label: 附　夢語摘要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-mulu-4
+    span:
+    - body
+    - 5611
+    - 5611
+  label: 引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-mulu-5
+    span:
+    - body
+    - 6055
+    - 6055
+  label: 雲山夢語摘要上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-mulu-6
+    span:
+    - body
+    - 6079
+    - 6079
+  label: 元起章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-mulu-7
+    span:
+    - body
+    - 8248
+    - 8248
+  label: 惟識章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-mulu-8
+    span:
+    - body
+    - 9625
+    - 9625
+  label: 意生章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-mulu-9
+    span:
+    - body
+    - 11877
+    - 11877
+  label: 雲山夢語摘要下
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-mulu-10
+    span:
+    - body
+    - 11901
+    - 11901
+  label: 問答章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-mulu-11
+    span:
+    - body
+    - 11907
+    - 11907
+  label: 無夢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0195_J_001-mulu-12
+    span:
+    - body
+    - 17625
+    - 17625
+  label: 紀業
+  type: mulu
+  level: 1
+hash: sha256:95e00a1ea6214da1ba1adfcd387e09b7738eb73882b1820f6e921f9aa1548608
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
