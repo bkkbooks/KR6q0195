@@ -19,17 +19,17 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0195_000-J.yaml, hash: 'sha256:891e48ed16f67bd8e15687d74071ad0ec2fdeef079f27cf10c115a783b79a31b'}
+  - {seq: 0, filename: KR6q0195_000-J.yaml, hash: 'sha256:71c26428c99b5c4ad9df24bec90023a2e5c15aa3d7ba7571569eebad27eb84c6'}
   - {seq: 1, filename: KR6q0195_001-J.yaml, hash: 'sha256:5247a7f13ecd7132a303dcbb18a7d46e8cbc15393934ff1e1319177f318168fe'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0195_000-J.markers.yaml, hash: 'sha256:7c327afa0c9fec71d8b02e0d05d731d0f72f907dc896252e86f49660149f667d'}
+  - {seq: 0, role: markers, filename: assets/KR6q0195_000-J.markers.yaml, hash: 'sha256:0835be2cdd1b3c198f1e16d2fbeec4e7951efe9f9bc668386d6d97591b613004'}
   - {seq: 1, role: markers, filename: assets/KR6q0195_001-J.markers.yaml, hash: 'sha256:0c5e7eab70ccf3413ca469b11bd63d4c4bd4c6393573175b0afe6948139c67db'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0195_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 曹溪一滴緣起
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0195_J_000-mulu-2
     span:
-    - front
+    - body
     - 551
     - 551
   label: 引曹溪一滴
@@ -175,4 +175,4 @@ table_of_contents:
   label: 紀業
   type: mulu
   level: 1
-hash: sha256:325bba249d1a5aecaafbdc4c6477c4af9543bbeb9ad6aed7f26b6cf3e66a604e
+hash: sha256:effa97ed0118a44ddcbefbf4baae62e5d7cfca453d630a9be7cdc7e13d44101c
